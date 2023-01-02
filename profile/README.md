@@ -6,5 +6,5 @@ Yes xd
 * kamodrip:hello! I make deez nuts and test some ports
 * An-Undertale-Fan:(he didn't write yet)
 * MemeHoovy:(he didn't write yet)
-* just-a-guy1532:(he didn't write yet)
+* just-a-guy1532:yo im just a guy1532 im currently learning coding but i dont code very well yet
 * luigionline1:hello there im not using github so much i fully using gitlab or another github alternatives
