@@ -6,4 +6,4 @@ Yes xd
 * kamodrip:hello! I make deez nuts and test some ports 
 * MemeHoovy:(he not writed yet)
 * Just A Guy:(he not writed yet)
-* luigionline1:(he not writed yet)
+* luigionline1:hello there im not using github so much i fully using gitlab or another github alternatives
