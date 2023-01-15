@@ -8,4 +8,4 @@ Yes xd
 * MemeHoovy:Heyo, I don't do android ports (becuz I only have bluestacks, but I appreicate those who can build/test android for me :), but I do port mods to psych engine and html5 (and pretty good with Haxe alongside C#/Lua and other programming languages)
 * just-a-guy1532:yo im just a guy1532 im currently learning coding but i dont code very well yet
 * luigionline1:hello there im not using github so much i fully using gitlab or another github alternatives
-* UNSTOP4BLE:(he didn't write yet)
+* UNSTOP4BLE:(he not wants or idk)
