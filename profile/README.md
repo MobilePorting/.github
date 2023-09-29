@@ -3,7 +3,6 @@ Yes xd
 
 ## User Descriptions On Team
 * mcagabe19:hello! there is alot my repo's moved here xd enjoy
-* kamodrip:hello! I make deez nuts and test some ports
 * Karim-Akra:A Guy That Port Mods To Psych Engine Using Lua And Source Code To Make It Accurate Af(still learning haxeflixel)
 * MemeHoovy:Heyo, I don't do android ports (becuz I only have bluestacks, but I appreicate those who can build/test android for me :), but I do port mods to psych engine and html5 (and pretty good with Haxe alongside C#/Lua and other programming languages)
 * just-a-guy1532:yo im just a guy1532 im currently learning coding but i dont code very well yet
